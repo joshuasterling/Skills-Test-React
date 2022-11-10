@@ -27,3 +27,4 @@ Bonus points will be awarded for:
   * adding redux state management.
   * hosting app on a platform like heroku
 # skills-test-completed
+# skills-test-completed
