@@ -29,3 +29,4 @@ Bonus points will be awarded for:
 # skills-test-completed
 # skills-test-completed
 # skills-test-completed
+# skills-test-completed
