@@ -28,3 +28,4 @@ Bonus points will be awarded for:
   * hosting app on a platform like heroku
 # skills-test-completed
 # skills-test-completed
+# skills-test-completed
